@@ -1,0 +1,12 @@
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\bin\Debug\net6.0\SpotifyLike.Domain.deps.json
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\bin\Debug\net6.0\SpotifyLike.Domain.dll
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\bin\Debug\net6.0\SpotifyLike.Domain.pdb
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\SpotifyLike.Domain.csproj.AssemblyReference.cache
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\SpotifyLike.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\SpotifyLike.Domain.AssemblyInfoInputs.cache
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\SpotifyLike.Domain.AssemblyInfo.cs
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\SpotifyLike.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\SpotifyLike.Domain.dll
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\refint\SpotifyLike.Domain.dll
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\SpotifyLike.Domain.pdb
+C:\Users\igor.souza\source\repos\PrjBloco_SpotifyLike\SpotifyLike.Domain\obj\Debug\net6.0\ref\SpotifyLike.Domain.dll
